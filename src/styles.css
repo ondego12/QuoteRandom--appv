@@ -1,0 +1,22 @@
+@media screen and (max-width: 550px){
+
+    #text{
+
+        font-size: 18px;
+    }
+
+    #author{
+
+        font-size: 12px;
+    }
+
+    #new-quote{
+
+        font-size: 10px;
+    }
+
+    #name{
+
+        font-size: 14px;
+    }
+}
